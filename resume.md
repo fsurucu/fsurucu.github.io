@@ -1,60 +1,96 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
+subtitle: (curriculum vitae)
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
-<br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+## EDUCATION
 
-### PROJECTS AND PAPERS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+ Bogazici University - **Boğaziçi Üniversitesi**  <span style="float: right; ">2014</span>  
+(**Foreign Language Education Department**)
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+Bilecik Anatolian Teacher Training High School- **Bilecik Anadolu Öğretmen Lisesi** <span style="float: right; ">2010</span>  
+(**Foreign Language Division**)
 
-### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+## EXPERIENCE
+
+Intern Teacher - **Beşiktaş Şair Nedim Ortaokulu** <span style="float: right; ">2019/2020</span>
+
+Sales Representative - **Nero Picasso** <span style="float: right; ">2018</span>  
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Export Specialist - **Gökyar Mermer** <span style="float: right; ">2017</span>  
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+Real Estate Consultant - **Balcı Emlak** <span style="float: right; ">2016</span>  
 
-### EXPERIENCE
+Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2014</span>  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
+## LANGUAGES
+
+### Human
+- Turkish (Native)
+- English (Professional Proficiency)
+- Russian (Elementary)
+
+### Machine
+- Python
+
+## PROJECTS
+- **Nevrosa: Spider Song** - Game - Credited <span style="float: right; ">2019</span>  
+Turkish Translation of the VR game: Nevrosa: Spider Song 
+
+- **Interactive Appboard** - School Project - Bogazici University <span style="float: right; ">2019</span>  
+Simple interactive appboard project based on Cone of Experience (inspired by iPedagogy Wheel) 
+
+<a href="/map.html"> Interactive Appboard
+
+
+ - **Lazuri Alboni / Lazca Alfabe Pratik Programı**
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+<a href="https://github.com/gokaybalci/Lazuri-Alboni/"> Lazuri Alboni v1.0
+ 
+- **Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">2018 - 2019</span>  
+ ~
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+## PUBLISHING
+
+<a href="https://www.academia.edu/37084109/Do_Video_Games_Have_an_Effect_on_Reaction_Time_and_Reflexes"> Do Video Games Have an Effecton Reaction Time and Reflexes?  - May 2018
+
+## ACHIEVEMENTS, CERTIFICATES
+
+- **Google Digital Sales Certification**
+
+<a href="https://academy.exceedlms.com/student/award/19347266"> Completion ID: 19347266 Expires: August 27, 2020 
+ 
+    
+- **Linux Operating System Fundamentals**
+
+<a href="https://www.udemy.com/certificate/UC-FWEC6TNU/"> Certificate
+
+- **ÖSYS 2017**
+
+2017 - 469 pt. (1st place in the city, 55th in Turkey)
 
 
-### RECOGNITION & INTERESTS
+- **ÖSYS 2014**
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+2014 - 501 pt. (1st place in the city, 146th in Turkey)
+
+
+
+## PROGRAMS (OR APPLICATIONS) I'M FAMILIAR WITH
+Microsoft Office, LibreOffice, Visual Studio Code (and some other IDE's such as PyCharm, Thonny etc.), Adobe Photoshop, Sony Vegas, Krita, Github Pages (Jekyll), Wordpress and many CLI applications. 
+
+## INTERESTS
+ 
+- Free (i.e. libre) software
+- Survivalism
+- Cybernetics
+- Stoicism
+- Different operating systems (Windows, GNU/Linux, MacOS)
+- Powerlifting
+- Foreign languages and linguistics
+
