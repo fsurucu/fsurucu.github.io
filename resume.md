@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: (curriculum vitae)
+subtitle: (Curriculum Vitae)
 ---
 
 
@@ -11,7 +11,7 @@ subtitle: (curriculum vitae)
  **Bogazici University**  <span style="float: right; ">2015-ongoing</span>  
 *Foreign Language Education Department*
 
-**İzmit Şehit Özcan Kan Anatolian Teacher Training High School ** <span style="float: right; ">2011-2015</span>  
+**İzmit Şehit Özcan Kan Anatolian Teacher Training High School** <span style="float: right; ">2011-2015</span>  
 *Foreign Language Division*
 
 
@@ -39,6 +39,7 @@ Proofreader - **Çeviri Gazetesi** <span style="float: right; ">2017</span>
  **Sarıyer Project: “Ders Arası Dil Molası”**  <span style="float: right; ">2019-2020</span>  
 
 **Community Service Practices** <span style="float: right; ">2018</span>
+
 *within the scope of a deparmental course*
 
  **Çeviri Gazetesi**  <span style="float: right; ">2017</span>  
@@ -50,9 +51,9 @@ No officially published paper yet; however, many research projects/ papers were 
 
 ## ACHIEVEMENTS and CERTIFICATES
 
- **Participation in “Psikodilbilim Günü” by BÜDAV at Bogazici University **  <span style="float: right; ">2020</span>  
+ **Participation in “Psikodilbilim Günü” by BÜDAV at Bogazici University**  <span style="float: right; ">2020</span>  
 
-**Participation Certificate in ENRICH Project: English as a Lingua Franca for Inclusive Multilingual Classrooms ** <span style="float: right; ">2020</span>
+**Participation Certificate in ENRICH Project: English as a Lingua Franca for Inclusive Multilingual Classrooms** <span style="float: right; ">2020</span>
 
  **ALES**  <span style="float: right; ">2019</span>  
 76 points in Verbal; 71 points in Equally-Weighted
@@ -69,7 +70,9 @@ No officially published paper yet; however, many research projects/ papers were 
  
 ## PROGRAMS
 Microsoft Office
+
 LibreOffice
+
 BlueGriffon
 
 ## ACTIVITES
