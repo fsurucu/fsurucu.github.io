@@ -77,6 +77,7 @@ BlueGriffon
 
 ## ACTIVITES
 **BUO: Boğaziçi Oyuncuları** <span style="float: right; ">2015-2016</span>
+
 Participation in a student’s club about acting in Bogazici University
 
 ## INTERESTS
@@ -85,11 +86,11 @@ Participation in a student’s club about acting in Bogazici University
 - Neurolinguistics
 - Language acquisition
 - Psycholinguistics
-- Foreign languages
-- Philosophy of language
 - Psychology
 - Neuroscience
 - Developmental psychology
+- Foreign languages
+- Philosophy of language
 - Education for babies and young children
 - Educational policies 
 - Turkish cuisine and cooking
