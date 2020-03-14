@@ -76,9 +76,7 @@ LibreOffice
 BlueGriffon
 
 ## ACTIVITES
-**BUO: Boğaziçi Oyuncuları** <span style="float: right; ">2015-2016</span>
-
-
+**BUO: Boğaziçi Oyuncuları** <span style="float: right; ">2015-2016</span>  
 Participation in a student’s club about acting in Bogazici University
 
 ## INTERESTS
