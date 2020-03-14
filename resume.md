@@ -7,7 +7,6 @@ subtitle: (Curriculum Vitae)
 
 ## EDUCATION
 
-
  **Bogazici University**  <span style="float: right; ">2015-ongoing</span>  
 *Foreign Language Education Department*
 
@@ -36,6 +35,7 @@ Proofreader - **Çeviri Gazetesi** <span style="float: right; ">2017</span>
 
 
 ## PROJECTS
+
  **Sarıyer Project: “Ders Arası Dil Molası”**  <span style="float: right; ">2019-2020</span>  
 
 **Community Service Practices** <span style="float: right; ">2018</span>
@@ -47,6 +47,7 @@ Proofreader - **Çeviri Gazetesi** <span style="float: right; ">2017</span>
 **AIESEC Project** <span style="float: right; ">2015</span>  
 
 ## PUBLISHING
+
 No officially published paper yet; however, many research projects/ papers were written within the scope of various courses.
 
 ## ACHIEVEMENTS and CERTIFICATES
@@ -69,6 +70,7 @@ No officially published paper yet; however, many research projects/ papers were 
 **Various participation certificates from drama/ acting courses for adolescents and children**
  
 ## PROGRAMS
+
 Microsoft Office
 
 LibreOffice
@@ -76,6 +78,7 @@ LibreOffice
 BlueGriffon
 
 ## ACTIVITES
+
 **BUO: Boğaziçi Oyuncuları** <span style="float: right; ">2015-2016</span>  
 Participation in a student’s club about acting in Bogazici University
 
